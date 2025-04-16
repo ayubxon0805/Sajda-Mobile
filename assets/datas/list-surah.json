@@ -1,0 +1,1142 @@
+[
+  {
+    "nomor": 1,
+    "nama": "الفاتحة",
+    "nama_latin": "Fotiha surasi",
+    "jumlah_ayat": 7,
+    "tempat_turun": "makka",
+    "arti": "Pembukaan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/001.mp3"
+  },
+  {
+    "nomor": 2,
+    "nama": "البقرة",
+    "nama_latin": "Baqara surasi",
+    "jumlah_ayat": 286,
+    "tempat_turun": "madina",
+    "arti": "Sapi",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/002.mp3"
+  },
+  {
+    "nomor": 3,
+    "nama": "اٰل عمران",
+    "nama_latin": "Oli Imron surasi",
+    "jumlah_ayat": 200,
+    "tempat_turun": "madina",
+    "arti": "Keluarga Imran",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/003.mp3"
+  },
+  {
+    "nomor": 4,
+    "nama": "النساۤء",
+    "nama_latin": "Niso surasi",
+    "jumlah_ayat": 176,
+    "tempat_turun": "madina",
+    "arti": "Wanita",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/004.mp3"
+  },
+  {
+    "nomor": 5,
+    "nama": "الماۤئدة",
+    "nama_latin": "Moida surasi",
+    "jumlah_ayat": 120,
+    "tempat_turun": "madina",
+    "arti": "Hidangan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/005.mp3"
+  },
+  {
+    "nomor": 6,
+    "nama": "الانعام",
+    "nama_latin": "An'om surasi",
+    "jumlah_ayat": 165,
+    "tempat_turun": "makka",
+    "arti": "Binatang Ternak",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/006.mp3"
+  },
+  {
+    "nomor": 7,
+    "nama": "الاعراف",
+    "nama_latin": "A'rof surasi",
+    "jumlah_ayat": 206,
+    "tempat_turun": "makka",
+    "arti": "Tempat Tertinggi",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/007.mp3"
+  },
+  {
+    "nomor": 8,
+    "nama": "الانفال",
+    "nama_latin": "Anfol surasi",
+    "jumlah_ayat": 75,
+    "tempat_turun": "madina",
+    "arti": "Rampasan Perang",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/008.mp3"
+  },
+  {
+    "nomor": 9,
+    "nama": "التوبة",
+    "nama_latin": "Tavba surasi",
+    "jumlah_ayat": 129,
+    "tempat_turun": "madina",
+    "arti": "Pengampunan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/009.mp3"
+  },
+  {
+    "nomor": 10,
+    "nama": "يونس",
+    "nama_latin": "Yunus surasi",
+    "jumlah_ayat": 109,
+    "tempat_turun": "makka",
+    "arti": "Yunus",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/010.mp3"
+  },
+  {
+    "nomor": 11,
+    "nama": "هود",
+    "nama_latin": "Hud surasi",
+    "jumlah_ayat": 123,
+    "tempat_turun": "makka",
+    "arti": "Hud",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/011.mp3"
+  },
+  {
+    "nomor": 12,
+    "nama": "يوسف",
+    "nama_latin": "Yusuf surasi",
+    "jumlah_ayat": 111,
+    "tempat_turun": "makka",
+    "arti": "Yusuf",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/012.mp3"
+  },
+  {
+    "nomor": 13,
+    "nama": "الرّعد",
+    "nama_latin": "Ra'd surasi",
+    "jumlah_ayat": 43,
+    "tempat_turun": "madina",
+    "arti": "Guruh",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/013.mp3"
+  },
+  {
+    "nomor": 14,
+    "nama": "ابرٰهيم",
+    "nama_latin": "Ibrohim surasi",
+    "jumlah_ayat": 52,
+    "tempat_turun": "makka",
+    "arti": "Ibrahim",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/014.mp3"
+  },
+  {
+    "nomor": 15,
+    "nama": "الحجر",
+    "nama_latin": "Hijr surasi",
+    "jumlah_ayat": 99,
+    "tempat_turun": "makka",
+    "arti": "Hijr",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/015.mp3"
+  },
+  {
+    "nomor": 16,
+    "nama": "النحل",
+    "nama_latin": "Nahl surasi",
+    "jumlah_ayat": 128,
+    "tempat_turun": "makka",
+    "arti": "Lebah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/016.mp3"
+  },
+  {
+    "nomor": 17,
+    "nama": "الاسراۤء",
+    "nama_latin": "Isro` surasi",
+    "jumlah_ayat": 111,
+    "tempat_turun": "makka",
+    "arti": "Memperjalankan Malam Hari",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/017.mp3"
+  },
+  {
+    "nomor": 18,
+    "nama": "الكهف",
+    "nama_latin": "Kahf surasi",
+    "jumlah_ayat": 110,
+    "tempat_turun": "makka",
+    "arti": "Goa",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/018.mp3"
+  },
+  {
+    "nomor": 19,
+    "nama": "مريم",
+    "nama_latin": "Maryam surasi",
+    "jumlah_ayat": 98,
+    "tempat_turun": "makka",
+    "arti": "Maryam",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/019.mp3"
+  },
+  {
+    "nomor": 20,
+    "nama": "طٰهٰ",
+    "nama_latin": "Toha surasi",
+    "jumlah_ayat": 135,
+    "tempat_turun": "makka",
+    "arti": "Taha",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/020.mp3"
+  },
+  {
+    "nomor": 21,
+    "nama": "الانبياۤء",
+    "nama_latin": "Anbiyo surasi",
+    "jumlah_ayat": 112,
+    "tempat_turun": "makka",
+    "arti": "Para Nabi",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/021.mp3"
+  },
+  {
+    "nomor": 22,
+    "nama": "الحج",
+    "nama_latin": "Haj surasi",
+    "jumlah_ayat": 78,
+    "tempat_turun": "madina",
+    "arti": "Haji",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/022.mp3"
+  },
+  {
+    "nomor": 23,
+    "nama": "المؤمنون",
+    "nama_latin": "Mu'minun surasi",
+    "jumlah_ayat": 118,
+    "tempat_turun": "makka",
+    "arti": "Orang-Orang Mukmin",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/023.mp3"
+  },
+  {
+    "nomor": 24,
+    "nama": "النّور",
+    "nama_latin": "Nur surasi",
+    "jumlah_ayat": 64,
+    "tempat_turun": "madina",
+    "arti": "Cahaya",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/024.mp3"
+  },
+  {
+    "nomor": 25,
+    "nama": "الفرقان",
+    "nama_latin": "Furqon surasi",
+    "jumlah_ayat": 77,
+    "tempat_turun": "makka",
+    "arti": "Pembeda",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/025.mp3"
+  },
+  {
+    "nomor": 26,
+    "nama": "الشعراۤء",
+    "nama_latin": "Shu`aro surasi",
+    "jumlah_ayat": 227,
+    "tempat_turun": "makka",
+    "arti": "Para Penyair",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/026.mp3"
+  },
+  {
+    "nomor": 27,
+    "nama": "النمل",
+    "nama_latin": "Naml surasi",
+    "jumlah_ayat": 93,
+    "tempat_turun": "makka",
+    "arti": "Semut-semut",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/027.mp3"
+  },
+  {
+    "nomor": 28,
+    "nama": "القصص",
+    "nama_latin": "Qasas surasi",
+    "jumlah_ayat": 88,
+    "tempat_turun": "makka",
+    "arti": "Kisah-Kisah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/028.mp3"
+  },
+  {
+    "nomor": 29,
+    "nama": "العنكبوت",
+    "nama_latin": "Ankabut surasi",
+    "jumlah_ayat": 69,
+    "tempat_turun": "makka",
+    "arti": "Laba-Laba",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/029.mp3"
+  },
+  {
+    "nomor": 30,
+    "nama": "الرّوم",
+    "nama_latin": "Rum surasi",
+    "jumlah_ayat": 60,
+    "tempat_turun": "makka",
+    "arti": "Romawi",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/030.mp3"
+  },
+  {
+    "nomor": 31,
+    "nama": "لقمٰن",
+    "nama_latin": "Luqmon surasi",
+    "jumlah_ayat": 34,
+    "tempat_turun": "makka",
+    "arti": "Luqman",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/031.mp3"
+  },
+  {
+    "nomor": 32,
+    "nama": "السّجدة",
+    "nama_latin": "Sajda surasi",
+    "jumlah_ayat": 30,
+    "tempat_turun": "makka",
+    "arti": "Sajdah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/032.mp3"
+  },
+  {
+    "nomor": 33,
+    "nama": "الاحزاب",
+    "nama_latin": "Ahzob surasi",
+    "jumlah_ayat": 73,
+    "tempat_turun": "madina",
+    "arti": "Golongan Yang Bersekutu",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/033.mp3"
+  },
+  {
+    "nomor": 34,
+    "nama": "سبأ",
+    "nama_latin": "Saba' surasi",
+    "jumlah_ayat": 54,
+    "tempat_turun": "makka",
+    "arti": "Saba'",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/034.mp3"
+  },
+  {
+    "nomor": 35,
+    "nama": "فاطر",
+    "nama_latin": "Fotir surasi",
+    "jumlah_ayat": 45,
+    "tempat_turun": "makka",
+    "arti": "Maha Pencipta",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/035.mp3"
+  },
+  {
+    "nomor": 36,
+    "nama": "يٰسۤ",
+    "nama_latin": "Yosin surasi",
+    "jumlah_ayat": 83,
+    "tempat_turun": "makka",
+    "arti": "Yasin",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/036.mp3"
+  },
+  {
+    "nomor": 37,
+    "nama": "الصّٰۤفّٰت",
+    "nama_latin": "Soffot surasi",
+    "jumlah_ayat": 182,
+    "tempat_turun": "makka",
+    "arti": "Barisan-Barisan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/037.mp3"
+  },
+  {
+    "nomor": 38,
+    "nama": "ص",
+    "nama_latin": "Sod surasi",
+    "jumlah_ayat": 88,
+    "tempat_turun": "makka",
+    "arti": "Sad",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/038.mp3"
+  },
+  {
+    "nomor": 39,
+    "nama": "الزمر",
+    "nama_latin": "Zumar surasi",
+    "jumlah_ayat": 75,
+    "tempat_turun": "makka",
+    "arti": "Rombongan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/039.mp3"
+  },
+  {
+    "nomor": 40,
+    "nama": "غافر",
+    "nama_latin": "G'ofir surasi",
+    "jumlah_ayat": 85,
+    "tempat_turun": "makka",
+    "arti": "Maha Pengampun",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/040.mp3"
+  },
+  {
+    "nomor": 41,
+    "nama": "فصّلت",
+    "nama_latin": "Fussilat surasi",
+    "jumlah_ayat": 54,
+    "tempat_turun": "makka",
+    "arti": "Yang Dijelaskan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/041.mp3"
+  },
+  {
+    "nomor": 42,
+    "nama": "الشورى",
+    "nama_latin": "Sho`ro surasi",
+    "jumlah_ayat": 53,
+    "tempat_turun": "makka",
+    "arti": "Musyawarah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/042.mp3"
+  },
+  {
+    "nomor": 43,
+    "nama": "الزخرف",
+    "nama_latin": "Zuxruf surasi",
+    "jumlah_ayat": 89,
+    "tempat_turun": "makka",
+    "arti": "Perhiasan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/043.mp3"
+  },
+  {
+    "nomor": 44,
+    "nama": "الدخان",
+    "nama_latin": "Duxon surasi",
+    "jumlah_ayat": 59,
+    "tempat_turun": "makka",
+    "arti": "Kabut",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/044.mp3"
+  },
+  {
+    "nomor": 45,
+    "nama": "الجاثية",
+    "nama_latin": "Josiya surasi",
+    "jumlah_ayat": 37,
+    "tempat_turun": "makka",
+    "arti": "Berlutut",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/045.mp3"
+  },
+  {
+    "nomor": 46,
+    "nama": "الاحقاف",
+    "nama_latin": "Ahqof surasi",
+    "jumlah_ayat": 35,
+    "tempat_turun": "makka",
+    "arti": "Bukit Pasir",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/046.mp3"
+  },
+  {
+    "nomor": 47,
+    "nama": "محمّد",
+    "nama_latin": "Muhammad surasi",
+    "jumlah_ayat": 38,
+    "tempat_turun": "madina",
+    "arti": "Muhammad",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/047.mp3"
+  },
+  {
+    "nomor": 48,
+    "nama": "الفتح",
+    "nama_latin": "Fath surasi",
+    "jumlah_ayat": 29,
+    "tempat_turun": "madina",
+    "arti": "Kemenangan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/048.mp3"
+  },
+  {
+    "nomor": 49,
+    "nama": "الحجرٰت",
+    "nama_latin": "Hujurot surasi",
+    "jumlah_ayat": 18,
+    "tempat_turun": "madina",
+    "arti": "Kamar-Kamar",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/049.mp3"
+  },
+  {
+    "nomor": 50,
+    "nama": "ق",
+    "nama_latin": "Qof surasi",
+    "jumlah_ayat": 45,
+    "tempat_turun": "makka",
+    "arti": "Qaf",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/050.mp3"
+  },
+  {
+    "nomor": 51,
+    "nama": "الذّٰريٰت",
+    "nama_latin": "Zoriyot surasi",
+    "jumlah_ayat": 60,
+    "tempat_turun": "makka",
+    "arti": "Angin yang Menerbangkan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/051.mp3"
+  },
+  {
+    "nomor": 52,
+    "nama": "الطور",
+    "nama_latin": "Tur surasi",
+    "jumlah_ayat": 49,
+    "tempat_turun": "makka",
+    "arti": "Bukit Tursina",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/052.mp3"
+  },
+  {
+    "nomor": 53,
+    "nama": "النجم",
+    "nama_latin": "Najm surasi",
+    "jumlah_ayat": 62,
+    "tempat_turun": "makka",
+    "arti": "Bintang",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/053.mp3"
+  },
+  {
+    "nomor": 54,
+    "nama": "القمر",
+    "nama_latin": "Qamar surasi",
+    "jumlah_ayat": 55,
+    "tempat_turun": "makka",
+    "arti": "Bulan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/054.mp3"
+  },
+  {
+    "nomor": 55,
+    "nama": "الرحمن",
+    "nama_latin": "Ar Rahmon surasi",
+    "jumlah_ayat": 78,
+    "tempat_turun": "madina",
+    "arti": "Maha Pengasih",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/055.mp3"
+  },
+  {
+    "nomor": 56,
+    "nama": "الواقعة",
+    "nama_latin": "Voqea surasi",
+    "jumlah_ayat": 96,
+    "tempat_turun": "makka",
+    "arti": "Hari Kiamat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/056.mp3"
+  },
+  {
+    "nomor": 57,
+    "nama": "الحديد",
+    "nama_latin": "Hadid surasi",
+    "jumlah_ayat": 29,
+    "tempat_turun": "madina",
+    "arti": "Besi",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/057.mp3"
+  },
+  {
+    "nomor": 58,
+    "nama": "المجادلة",
+    "nama_latin": "Mujodala surasi",
+    "jumlah_ayat": 22,
+    "tempat_turun": "madina",
+    "arti": "Gugatan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/058.mp3"
+  },
+  {
+    "nomor": 59,
+    "nama": "الحشر",
+    "nama_latin": "Hashr surasi",
+    "jumlah_ayat": 24,
+    "tempat_turun": "madina",
+    "arti": "Pengusiran",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/059.mp3"
+  },
+  {
+    "nomor": 60,
+    "nama": "الممتحنة",
+    "nama_latin": "Mumtahana surasi",
+    "jumlah_ayat": 13,
+    "tempat_turun": "madina",
+    "arti": "Wanita Yang Diuji",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/060.mp3"
+  },
+  {
+    "nomor": 61,
+    "nama": "الصّفّ",
+    "nama_latin": "Sof surasi",
+    "jumlah_ayat": 14,
+    "tempat_turun": "madina",
+    "arti": "Barisan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/061.mp3"
+  },
+  {
+    "nomor": 62,
+    "nama": "الجمعة",
+    "nama_latin": "Jum`a surasi",
+    "jumlah_ayat": 11,
+    "tempat_turun": "madina",
+    "arti": "Jumat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/062.mp3"
+  },
+  {
+    "nomor": 63,
+    "nama": "المنٰفقون",
+    "nama_latin": "Munafiqun surasi",
+    "jumlah_ayat": 11,
+    "tempat_turun": "madina",
+    "arti": "Orang-Orang Munafik",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/063.mp3"
+  },
+  {
+    "nomor": 64,
+    "nama": "التغابن",
+    "nama_latin": "Tag'obun surasi",
+    "jumlah_ayat": 18,
+    "tempat_turun": "madina",
+    "arti": "Pengungkapan Kesalahan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/064.mp3"
+  },
+  {
+    "nomor": 65,
+    "nama": "الطلاق",
+    "nama_latin": "Taloq surasi",
+    "jumlah_ayat": 12,
+    "tempat_turun": "madina",
+    "arti": "Talak",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/065.mp3"
+  },
+  {
+    "nomor": 66,
+    "nama": "التحريم",
+    "nama_latin": "Tahrim surasi",
+    "jumlah_ayat": 12,
+    "tempat_turun": "madina",
+    "arti": "Pengharaman",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/066.mp3"
+  },
+  {
+    "nomor": 67,
+    "nama": "الملك",
+    "nama_latin": "Mulk surasi",
+    "jumlah_ayat": 30,
+    "tempat_turun": "makka",
+    "arti": "Kerajaan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/067.mp3"
+  },
+  {
+    "nomor": 68,
+    "nama": "القلم",
+    "nama_latin": "Qalam surasi",
+    "jumlah_ayat": 52,
+    "tempat_turun": "makka",
+    "arti": "Pena",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/068.mp3"
+  },
+  {
+    "nomor": 69,
+    "nama": "الحاۤقّة",
+    "nama_latin": "Haqqah surasi",
+    "jumlah_ayat": 52,
+    "tempat_turun": "makka",
+    "arti": "Hari Kiamat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/069.mp3"
+  },
+  {
+    "nomor": 70,
+    "nama": "المعارج",
+    "nama_latin": "Maorij surasi",
+    "jumlah_ayat": 44,
+    "tempat_turun": "makka",
+    "arti": "Tempat Naik",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/070.mp3"
+  },
+  {
+    "nomor": 71,
+    "nama": "نوح",
+    "nama_latin": "Nuh surasi",
+    "jumlah_ayat": 28,
+    "tempat_turun": "makka",
+    "arti": "Nuh",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/071.mp3"
+  },
+  {
+    "nomor": 72,
+    "nama": "الجن",
+    "nama_latin": "Jin surasi",
+    "jumlah_ayat": 28,
+    "tempat_turun": "makka",
+    "arti": "Jin",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/072.mp3"
+  },
+  {
+    "nomor": 73,
+    "nama": "المزّمّل",
+    "nama_latin": "Muzzammil surasi",
+    "jumlah_ayat": 20,
+    "tempat_turun": "makka",
+    "arti": "Orang Yang Berselimut",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/073.mp3"
+  },
+  {
+    "nomor": 74,
+    "nama": "المدّثّر",
+    "nama_latin": "Muddassir surasi",
+    "jumlah_ayat": 56,
+    "tempat_turun": "makka",
+    "arti": "Orang Yang Berkemul",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/074.mp3"
+  },
+  {
+    "nomor": 75,
+    "nama": "القيٰمة",
+    "nama_latin": "Qiyomat surasi",
+    "jumlah_ayat": 40,
+    "tempat_turun": "makka",
+    "arti": "Hari Kiamat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/075.mp3"
+  },
+  {
+    "nomor": 76,
+    "nama": "الانسان",
+    "nama_latin": "Inson surasi",
+    "jumlah_ayat": 31,
+    "tempat_turun": "madina",
+    "arti": "Manusia",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/076.mp3"
+  },
+  {
+    "nomor": 77,
+    "nama": "المرسلٰت",
+    "nama_latin": "Mursalot surasi",
+    "jumlah_ayat": 50,
+    "tempat_turun": "makka",
+    "arti": "Malaikat Yang Diutus",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/077.mp3"
+  },
+  {
+    "nomor": 78,
+    "nama": "النبأ",
+    "nama_latin": "Naba' surasi",
+    "jumlah_ayat": 40,
+    "tempat_turun": "makka",
+    "arti": "Berita Besar",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/078.mp3"
+  },
+  {
+    "nomor": 79,
+    "nama": "النّٰزعٰت",
+    "nama_latin":  "Nozi'ot surasi",
+    "jumlah_ayat": 46,
+    "tempat_turun": "makka",
+    "arti": "Malaikat Yang Mencabut",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/079.mp3"
+  },
+  {
+    "nomor": 80,
+    "nama": "عبس",
+    "nama_latin": "Abasa surasi",
+    "jumlah_ayat": 42,
+    "tempat_turun": "makka",
+    "arti": "Bermuka Masam",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/080.mp3"
+  },
+  {
+    "nomor": 81,
+    "nama": "التكوير",
+    "nama_latin": "Takvir surasi",
+    "jumlah_ayat": 29,
+    "tempat_turun": "makka",
+    "arti": "Penggulungan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/081.mp3"
+  },
+  {
+    "nomor": 82,
+    "nama": "الانفطار",
+    "nama_latin": "Infitor surasi",
+    "jumlah_ayat": 19,
+    "tempat_turun": "makka",
+    "arti": "Terbelah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/082.mp3"
+  },
+  {
+    "nomor": 83,
+    "nama": "المطفّفين",
+    "nama_latin": "Mutoffifin surasi",
+    "jumlah_ayat": 36,
+    "tempat_turun": "makka",
+    "arti": "Orang-Orang Curang",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/083.mp3"
+  },
+  {
+    "nomor": 84,
+    "nama": "الانشقاق",
+    "nama_latin": "Inshiqoq surasi",
+    "jumlah_ayat": 25,
+    "tempat_turun": "makka",
+    "arti": "Terbelah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/084.mp3"
+  },
+  {
+    "nomor": 85,
+    "nama": "البروج",
+    "nama_latin": "Buruj surasi",
+    "jumlah_ayat": 22,
+    "tempat_turun": "makka",
+    "arti": "Gugusan Bintang",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/085.mp3"
+  },
+  {
+    "nomor": 86,
+    "nama": "الطارق",
+    "nama_latin": "Toriq surasi",
+    "jumlah_ayat": 17,
+    "tempat_turun": "makka",
+    "arti": "Yang Datang Di Malam Hari",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/086.mp3"
+  },
+  {
+    "nomor": 87,
+    "nama": "الاعلى",
+    "nama_latin": "A'lo surasi",
+    "jumlah_ayat": 19,
+    "tempat_turun": "makka",
+    "arti": "Maha Tinggi",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/087.mp3"
+  },
+  {
+    "nomor": 88,
+    "nama": "الغاشية",
+    "nama_latin": "G'oshiya surasi",
+    "jumlah_ayat": 26,
+    "tempat_turun": "makka",
+    "arti": "Hari Kiamat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/088.mp3"
+  },
+  {
+    "nomor": 89,
+    "nama": "الفجر",
+    "nama_latin": "Fajr surasi",
+    "jumlah_ayat": 30,
+    "tempat_turun": "makka",
+    "arti": "Fajar",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/089.mp3"
+  },
+  {
+    "nomor": 90,
+    "nama": "البلد",
+    "nama_latin": "Balad surasi",
+    "jumlah_ayat": 20,
+    "tempat_turun": "makka",
+    "arti": "Negeri",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/090.mp3"
+  },
+  {
+    "nomor": 91,
+    "nama": "الشمس",
+    "nama_latin": "Shams surasi",
+    "jumlah_ayat": 15,
+    "tempat_turun": "makka",
+    "arti": "Matahari",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/091.mp3"
+  },
+  {
+    "nomor": 92,
+    "nama": "الّيل",
+    "nama_latin": "Layl surasi",
+    "jumlah_ayat": 21,
+    "tempat_turun": "makka",
+    "arti": "Malam",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/092.mp3"
+  },
+  {
+    "nomor": 93,
+    "nama": "الضحى",
+    "nama_latin": "Zuho surasi",
+    "jumlah_ayat": 11,
+    "tempat_turun": "makka",
+    "arti": "Duha",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/093.mp3"
+  },
+  {
+    "nomor": 94,
+    "nama": "الشرح",
+    "nama_latin": "Inshiroh surasi",
+    "jumlah_ayat": 8,
+    "tempat_turun": "makka",
+    "arti": "Lapang",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/094.mp3"
+  },
+  {
+    "nomor": 95,
+    "nama": "التين",
+    "nama_latin": "Tiyn surasi",
+    "jumlah_ayat": 8,
+    "tempat_turun": "makka",
+    "arti": "Buah Tin",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/095.mp3"
+  },
+  {
+    "nomor": 96,
+    "nama": "العلق",
+    "nama_latin": "Alaq surasi",
+    "jumlah_ayat": 19,
+    "tempat_turun": "makka",
+    "arti": "Segumpal Darah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/096.mp3"
+  },
+  {
+    "nomor": 97,
+    "nama": "القدر",
+    "nama_latin": "Qadr surasi",
+    "jumlah_ayat": 5,
+    "tempat_turun": "makka",
+    "arti": "Kemuliaan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/097.mp3"
+  },
+  {
+    "nomor": 98,
+    "nama": "البيّنة",
+    "nama_latin": "Bayyina surasi",
+    "jumlah_ayat": 8,
+    "tempat_turun": "madina",
+    "arti": "Bukti Nyata",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/098.mp3"
+  },
+  {
+    "nomor": 99,
+    "nama": "الزلزلة",
+    "nama_latin": "Zalzala surasi",
+    "jumlah_ayat": 8,
+    "tempat_turun": "madina",
+    "arti": "Guncangan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/099.mp3"
+  },
+  {
+    "nomor": 100,
+    "nama": "العٰديٰت",
+    "nama_latin": "'Odiyot surasi",
+    "jumlah_ayat": 11,
+    "tempat_turun": "makka",
+    "arti": "Kuda Yang Berlari Kencang",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/100.mp3"
+  },
+  {
+    "nomor": 101,
+    "nama": "القارعة",
+    "nama_latin": "Qori'a surasi",
+    "jumlah_ayat": 11,
+    "tempat_turun": "makka",
+    "arti": "Hari Kiamat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/101.mp3"
+  },
+  {
+    "nomor": 102,
+    "nama": "التكاثر",
+    "nama_latin": "Takosur surasi",
+    "jumlah_ayat": 8,
+    "tempat_turun": "makka",
+    "arti": "Bermegah-Megahan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/102.mp3"
+  },
+  {
+    "nomor": 103,
+    "nama": "العصر",
+    "nama_latin": "Asr surasi",
+    "jumlah_ayat": 3,
+    "tempat_turun": "makka",
+    "arti": "Asar",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/103.mp3"
+  },
+  {
+    "nomor": 104,
+    "nama": "الهمزة",
+    "nama_latin": "Humaza surasi",
+    "jumlah_ayat": 9,
+    "tempat_turun": "makka",
+    "arti": "Pengumpat",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/104.mp3"
+  },
+  {
+    "nomor": 105,
+    "nama": "الفيل",
+    "nama_latin": "Fil surasi",
+    "jumlah_ayat": 5,
+    "tempat_turun": "makka",
+    "arti": "Gajah",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/105.mp3"
+  },
+  {
+    "nomor": 106,
+    "nama": "قريش",
+    "nama_latin": "Quraysh surasi",
+    "jumlah_ayat": 4,
+    "tempat_turun": "makka",
+    "arti": "Quraisy",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/106.mp3"
+  },
+  {
+    "nomor": 107,
+    "nama": "الماعون",
+    "nama_latin": "Moun surasi",
+    "jumlah_ayat": 7,
+    "tempat_turun": "makka",
+    "arti": "Barang Yang Berguna",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/107.mp3"
+  },
+  {
+    "nomor": 108,
+    "nama": "الكوثر",
+    "nama_latin": "Kavsar surasi",
+    "jumlah_ayat": 3,
+    "tempat_turun": "makka",
+    "arti": "Pemberian Yang Banyak",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/108.mp3"
+  },
+  {
+    "nomor": 109,
+    "nama": "الكٰفرون",
+    "nama_latin": "Kofirun surasi",
+    "jumlah_ayat": 6,
+    "tempat_turun": "makka",
+    "arti": "Orang-Orang kafir",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/109.mp3"
+  },
+  {
+    "nomor": 110,
+    "nama": "النصر",
+    "nama_latin": "Nasr surasi",
+    "jumlah_ayat": 3,
+    "tempat_turun": "madina",
+    "arti": "Pertolongan",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/110.mp3"
+  },
+  {
+    "nomor": 111,
+    "nama": "اللهب",
+    "nama_latin": "Masad surasi",
+    "jumlah_ayat": 5,
+    "tempat_turun": "makka",
+    "arti": "Api Yang Bergejolak",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/111.mp3"
+  },
+  {
+    "nomor": 112,
+    "nama": "الاخلاص",
+    "nama_latin": "Ixlos surasi",
+    "jumlah_ayat": 4,
+    "tempat_turun": "makka",
+    "arti": "Ikhlas",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/112.mp3"
+  },
+  {
+    "nomor": 113,
+    "nama": "الفلق",
+    "nama_latin": "Falaq surasi",
+    "jumlah_ayat": 5,
+    "tempat_turun": "makka",
+    "arti": "Subuh",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/113.mp3"
+  },
+  {
+    "nomor": 114,
+    "nama": "الناس",
+    "nama_latin": "Nos surasi",
+    "jumlah_ayat": 6,
+    "tempat_turun": "makka",
+    "arti": "Manusia",
+    "deskripsi":"",
+    "audio": "https://equran-id-audio.nos.wjv-1.neo.id/content/audio/114.mp3"
+  }
+]
