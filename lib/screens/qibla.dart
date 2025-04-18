@@ -12,51 +12,11 @@ class QiblahScreen extends StatefulWidget {
 
 class _QiblahScreenState extends State<QiblahScreen>
     with SingleTickerProviderStateMixin {
-  bool hasPermission = false;
-
-  Animation<double>? animation;
-  AnimationController? _animationController;
+  late AnimationController _animationController;
+  late Animation<double> _animation;
   double begin = 0.0;
 
-  Future<void> getPermission() async {
-    try {
-      if (await Permission.location.serviceStatus.isEnabled) {
-        var status = await Permission.location.status;
-        if (status.isGranted) {
-          setState(() {
-            hasPermission = true;
-          });
-        } else {
-          var result = await Permission.location.request();
-          setState(() {
-            hasPermission = (result == PermissionStatus.granted);
-          });
-        }
-      } else {
-        // Location xizmati o'chirilgan
-        showDialog(
-          context: context,
-          builder: (context) => AlertDialog(
-            title: const Text('Location xizmati o\'chirilgan'),
-            content: const Text(
-                'Iltimos, qurilmangizning Location xizmatini yoqing'),
-            actions: [
-              TextButton(
-                onPressed: () => Navigator.pop(context),
-                child: const Text('OK'),
-              ),
-            ],
-          ),
-        );
-      }
-    } catch (e) {
-      print('Permission error: $e');
-
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(content: Text('Xatolik yuz berdi: $e')),
-      );
-    }
-  }
+  late Future<bool> _permissionFuture;
 
   @override
   void initState() {
@@ -65,13 +25,58 @@ class _QiblahScreenState extends State<QiblahScreen>
       vsync: this,
       duration: const Duration(milliseconds: 500),
     );
-    animation = Tween(begin: 0.0, end: 0.0).animate(_animationController!);
-    getPermission();
+    _animation = Tween(begin: 0.0, end: 0.0).animate(_animationController);
+
+    _permissionFuture = _checkPermissions();
+  }
+
+  Future<bool> _checkPermissions() async {
+    try {
+      if (!await Permission.location.serviceStatus.isEnabled) {
+        await _showLocationServiceDialog();
+        return false;
+      }
+
+      final status = await Permission.location.status;
+      if (status.isGranted) {
+        return true;
+      }
+
+      final result = await Permission.location.request();
+      return result == PermissionStatus.granted;
+    } catch (e) {
+      debugPrint('Permission error: $e');
+      if (mounted) {
+        ScaffoldMessenger.of(
+          context,
+        ).showSnackBar(SnackBar(content: Text('Xatolik yuz berdi: $e')));
+      }
+      return false;
+    }
+  }
+
+  Future<void> _showLocationServiceDialog() async {
+    await showDialog(
+      context: context,
+      builder:
+          (context) => AlertDialog(
+            title: const Text('Location xizmati o\'chirilgan'),
+            content: const Text(
+              'Iltimos, qurilmangizning Location xizmatini yoqing',
+            ),
+            actions: [
+              TextButton(
+                onPressed: () => Navigator.pop(context),
+                child: const Text('OK'),
+              ),
+            ],
+          ),
+    );
   }
 
   @override
   void dispose() {
-    _animationController?.dispose();
+    _animationController.dispose();
     super.dispose();
   }
 
@@ -79,77 +84,82 @@ class _QiblahScreenState extends State<QiblahScreen>
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          body: FutureBuilder(
-        future: getPermission(),
-        builder: (context, snapshot) {
-          if (hasPermission) {
-            return StreamBuilder(
+        body: FutureBuilder<bool>(
+          future: _permissionFuture,
+          builder: (context, snapshot) {
+            if (snapshot.connectionState == ConnectionState.waiting) {
+              return const Center(child: CircularProgressIndicator());
+            }
+
+            if (snapshot.hasError || !(snapshot.data ?? false)) {
+              return const Center(
+                child: Text("Ruxsat berilmadi yoki xatolik yuz berdi."),
+              );
+            }
+
+            return StreamBuilder<QiblahDirection>(
               stream: FlutterQiblah.qiblahStream,
-              builder: (context, AsyncSnapshot<QiblahDirection> snapshot) {
+              builder: (context, snapshot) {
                 if (snapshot.connectionState == ConnectionState.waiting) {
-                  return Container(
-                      alignment: Alignment.center,
-                      child: const CircularProgressIndicator(
-                        color: Colors.white,
-                      ));
+                  return const Center(child: CircularProgressIndicator());
                 }
 
                 if (snapshot.hasError) {
                   return Center(
-                    child: Text('Xatolik yuz berdi: ${snapshot.error}'),
+                    child: Text("Xatolik yuz berdi: ${snapshot.error}"),
                   );
                 }
 
                 if (!snapshot.hasData) {
                   return const Center(
-                    child: Text(' Kechirasiz qandaydir muammo bor'),
+                    child: Text("Kechirasiz, qandaydir muammo bor."),
                   );
                 }
 
-                final qiblahDirection = snapshot.data;
-                animation = Tween(
-                        begin: begin,
-                        end: (qiblahDirection!.qiblah * (pi / 180) * -1))
-                    .animate(_animationController!);
+                final qiblahDirection = snapshot.data!;
+                final end = (qiblahDirection.qiblah * (pi / 180) * -1);
 
-                begin = (qiblahDirection.qiblah * (pi / 180) * -1);
-                _animationController!.forward(from: 0);
+                _animation = Tween(
+                  begin: begin,
+                  end: end,
+                ).animate(_animationController);
+                begin = end;
+                _animationController.forward(from: 0);
 
                 return Center(
                   child: Column(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [
-                        Text(
-                          "${qiblahDirection.direction.toInt()}°",
-                          style: TextStyle(
-                            fontSize: 30,
-                            color:
-                                Theme.of(context).brightness == Brightness.light
-                                    ? Colors.black
-                                    : Colors.white,
-                          ),
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Text(
+                        "${qiblahDirection.direction.toInt()}°",
+                        style: TextStyle(
+                          fontSize: 30,
+                          color:
+                              Theme.of(context).brightness == Brightness.light
+                                  ? Colors.black
+                                  : Colors.white,
                         ),
-                        const SizedBox(
-                          height: 10,
+                      ),
+                      const SizedBox(height: 10),
+                      SizedBox(
+                        height: 300,
+                        child: AnimatedBuilder(
+                          animation: _animation,
+                          builder:
+                              (context, child) => Transform.rotate(
+                                angle: _animation.value,
+                                child: Image.asset('assets/images/qibla.png'),
+                              ),
                         ),
-                        SizedBox(
-                            height: 300,
-                            child: AnimatedBuilder(
-                              animation: animation!,
-                              builder: (context, child) => Transform.rotate(
-                                  angle: animation!.value,
-                                  child:
-                                      Image.asset('assets/images/qibla.png')),
-                            ))
-                      ]),
+                      ),
+                    ],
+                  ),
                 );
               },
             );
-          } else {
-            return const Scaffold();
-          }
-        },
-      )),
+          },
+        ),
+      ),
     );
   }
 }

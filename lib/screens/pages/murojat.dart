@@ -69,6 +69,7 @@ class CommentsPage extends StatelessWidget {
                     fontWeight: FontWeight.w500,
                   ),
                 ),
+
                 Text(
                   'T.me:@Ayubxon2008',
                   textAlign: TextAlign.end,
@@ -81,18 +82,7 @@ class CommentsPage extends StatelessWidget {
                     fontWeight: FontWeight.w500,
                   ),
                 ),
-                Text(
-                  'Email: tiininvan@gmail.com',
-                  textAlign: TextAlign.end,
-                  style: GoogleFonts.poppins(
-                    color:
-                        Theme.of(context).brightness == Brightness.light
-                            ? Colors.black
-                            : Colors.white,
-                    fontSize: 17,
-                    fontWeight: FontWeight.w500,
-                  ),
-                ),
+
                 const SizedBox(height: 8),
                 Text(
                   'Versiya: 1.0.0',

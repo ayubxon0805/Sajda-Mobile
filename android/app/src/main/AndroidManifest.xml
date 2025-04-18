@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+<uses-feature android:name="android.hardware.sensor.compass" android:required="true"/>
+<uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="sajda_app"
+        android:label="Sajda"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
